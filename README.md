@@ -12,6 +12,6 @@ Hola a todos los que estén leyendo! Mi nombre es Matias Goldberg, mi número de
 
 ---
 
-# Este de aquí soy yo! ⬇️ con **Dwight** de The Offiec :)
+# Este de aquí soy yo! ⬇️ con **Dwight** de The Office!
 
 ![Foto Mati PdeP](https://i.postimg.cc/7hzMX4wV/fotopdp.jpg)
